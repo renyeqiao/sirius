@@ -23,7 +23,6 @@ repositories {
 
 dependencies {
     compile 'org.springframework.boot:spring-boot-starter-web:2.2.0.RELEASE'
-    compileTestJava 'org.springframework.boot:spring-boot-starter-test:2.2.0.RELEASE'
     compile 'org.projectlombok:lombok:1.18.2'
 }
 
